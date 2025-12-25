@@ -64,8 +64,6 @@ All endpoints require a `token` parameter (your widget token from the dashboard)
 | GET | `/help` | Get help articles |
 | GET | `/help/:slug` | Get single help article |
 | POST | `/help/:slug/feedback` | Rate article helpfulness |
-| POST | `/typing` | Send typing indicator |
-| POST | `/heartbeat` | Update visitor presence |
 
 ### POST /init
 
