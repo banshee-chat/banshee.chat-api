@@ -50,6 +50,8 @@ For custom integrations, the widget uses a REST API.
 
 **Base URL:** `https://app.banshee.chat/api/v1/widget`
 
+**Swagger Documentation:** [app.banshee.chat/api/docs](https://app.banshee.chat/api/docs)
+
 All endpoints require a `token` parameter (your widget token from the dashboard).
 
 ### Endpoints
